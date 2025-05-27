@@ -22,3 +22,4 @@ Then have two options to run the programm:
 1. Main (name of the main class) and then it's gonna require the username or
 2. Main <username> directly.
 
+[ProjectURL](https://github.com/oligarc/GitCli)
